@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h> /*if true coderun condition execution*/
 void main()
 {
     int a=10;
